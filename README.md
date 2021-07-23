@@ -70,6 +70,7 @@ LWin::return
 
 LWin & R::
 Send #{NumpadPgUp}
+WinActivate, ahk_exe ueli.exe
 ```
 
 * ueli set hotkey Super+Numpad and turn off plugins you dont need
